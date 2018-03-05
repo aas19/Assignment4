@@ -1,0 +1,46 @@
+body {
+    font-family: Arial
+}
+
+header {
+    font-size: 2rem;
+    text-align: center;
+    padding: 1rem;
+    background-color: #4587bf;
+    color: white
+}
+
+select {
+    width: 90%;
+    padding: 1rem;
+    font-size: 1.5rem;
+    margin: 1rem 5%;
+    border: 1px solid grey;
+    border-radius: 0;
+}
+
+#section1,
+#section2 {
+    padding: 5%;
+}
+
+#section2 {
+    display: none
+}
+
+#section1 img,
+#section2 img {
+    width: 100%
+}
+
+footer {
+    text-align: center;
+    background-color: #e2e2e2;
+    padding: 2rem;
+    font-size: 1.8rem
+}
+
+p {
+    text-align: justify;
+    font-size: 1rem
+}
